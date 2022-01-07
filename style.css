@@ -1,0 +1,21 @@
+body {
+    background: rgb(19 214 221);
+}
+
+.click {
+    margin-top: 20rem;
+    position: absolute;
+    left: 45%;
+    background-color: #18515e;
+    color: cornsilk;
+    text-align: center;
+    font-size: 2rem;
+    border-radius: 1rem;
+    cursor: pointer;
+    padding: .9rem
+
+}
+.click:hover {
+    background-color: #05eaf7;
+    color: #18515e;
+}
